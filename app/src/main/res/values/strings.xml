@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Criptomoedas</string>
+    <string name="title_criptomoedas">Quanto tenho de criptomoeda</string>
+    <string name="qtd_da_criptomeda">Qtde da criptomeda</string>
+    <string name="valor_da_criptomoeda">Valor da criptomoeda</string>
+    <string name="btc">BTC</string>
+    <string name="eth">ETH</string>
+    <string name="xrp">XRP</string>
+    <string name="calcular_r">CALCULAR R$</string>
+    <string name="aqui_aparece_o_valor_da_soma">Aqui aparece o valor da soma</string>
+</resources>
